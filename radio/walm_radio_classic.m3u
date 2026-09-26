@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="walm.classic" tvg-logo="https://icecast.walmradio.com:8443/classic.jpg" group-title="Radio",Classic Vinyl HD Opus
+https://icecast.walmradio.com:8443/classic_opus
